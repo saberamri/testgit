@@ -37,6 +37,10 @@ class Manager:
             for item_data in data_dict:
                 item = self.item_type(**item_data)
                 self.items[item.id] = item
-                
+
     def __str__(self):
+        pass
+
+
+    def repr(self):
         pass
