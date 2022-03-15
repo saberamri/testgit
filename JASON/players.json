@@ -1,0 +1,162 @@
+[
+    {
+        "id": 101,
+        "rank": 1,
+        "last_name":"Magnus",
+        "first_name":"Carlsen",
+        "birth_date": "1992-10-24", 
+        "gender": "H"
+    },
+    {
+        "id": 102,
+        "rank": 2,
+        "last_name":"Ding",
+        "first_name":"Liren",
+        "birth_date": "1990-11-30", 
+        "gender": "H"
+    },
+    {
+        "id": 103,
+        "rank": 3,
+        "last_name":"Fabiano Luigi",
+        "first_name":"Caruana",
+        "birth_date": "1992-07-30", 
+        "gender": "H"
+    },
+    {
+        "id": 104,
+        "rank": 2855,
+        "last_name":"Aronian",
+        "first_name":"Levon",
+        "birth_date": "1982-10-06", 
+        "gender":"H"
+    },
+    {
+        "id": 105,
+        "rank":5,
+        "last_name":"Nepomniachtchi",
+        "first_name":"Ian",
+        "birth_date": "1990-07-14", 
+        "gender":"H"
+    },
+    {
+        "id": 106,
+        "rank":6,
+        "last_name":"Giri",
+        "first_name":"Anish",
+        "birth_date": "1990-07-14", 
+        "gender":"H"
+    },
+    {
+        "id": 107,
+        "rank":7,
+        "last_name":"Grischuk",
+        "first_name":"Alexander",
+        "birth_date": "1983-10-31", 
+        "gender":"H"
+    },
+    {
+        "id": 108,
+        "rank":8,
+        "last_name":"So",
+        "first_name":"Wesley ",
+        "birth_date": "1993-10-09", 
+        "gender":"H"
+    },
+    {
+        "id": 109,
+        "rank":9,
+        "last_name":"Firouzja",
+        "first_name":"Alireza",
+        "birth_date": "2003-06-18", 
+        "gender":"H"
+    },
+    {
+        "id": 110,
+        "rank":10,
+        "last_name":"Vachier-Lagrave",
+        "first_name":"Maxime",
+        "birth_date": "1990-10-21", 
+        "gender":"H"
+    },
+    {
+        "id": 111,
+        "rank":11,
+        "last_name":"Mamedyarov",
+        "first_name":"Shakhriyar",
+        "birth_date": "1985-04-12", 
+        "gender":"H"
+    },
+    {
+        "id": 112,
+        "rank":12,
+        "last_name":"Rapport",
+        "first_name":"Richard",
+        "birth_date": "1996-03-25", 
+        "gender":"H"
+    },
+    {
+        "id": 113,
+        "rank":12,
+        "last_name":"Recabov",
+        "first_name":"Teimour",
+        "birth_date": "1987-03-12", 
+        "gender":"H"
+    },
+    {
+        "id": 114,
+        "rank":14,
+        "last_name":"Duda",
+        "first_name":"Jan-Krzysztof",
+        "birth_date": "1998-04-26", 
+        "gender":"H"
+    },
+    {
+        "id": 115,
+        "rank":15,
+        "last_name":"Perez",
+        "first_name":"Leinier Dominguez",
+        "birth_date": "1983-09-23", 
+        "gender":"H"
+    },
+    {
+        "id": 116,
+        "rank":16,
+        "last_name":"Anand",
+        "first_name":"Viswanathan",
+        "birth_date": "1969-12-11", 
+        "gender":"H"
+    },
+    {
+        "id": 117,
+        "rank":17,
+        "last_name":"Karjakin",
+        "first_name":"Sergey",
+        "birth_date": "1990-01-12", 
+        "gender":"H"
+    },
+    {
+        "id": 118,
+        "rank":18,
+        "last_name":"Nakamura",
+        "first_name":"Hikaru",
+        "birth_date": "1987-12-09", 
+        "gender":"H"
+    },
+    {
+        "id": 119,
+        "rank":19,
+        "last_name":"Vitiugov",
+        "first_name":"Nikita Kirillovich",
+        "birth_date": "1987-02-04", 
+        "gender":"H"
+    },
+    {
+        "id": 120,
+        "rank":20,
+        "last_name":"Topalov",
+        "first_name":"Veselin",
+        "birth_date": "1975-03-15", 
+        "gender":"H"
+    }
+]

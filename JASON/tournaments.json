@@ -1,0 +1,21 @@
+
+[
+    {
+        "id": 1,
+        "name":"tournament1",
+        "place":"Paris",
+        "number_of_rounds":2,
+        "players":[101,102,103,104],
+        "timeconrol":1
+    },
+    {
+        "id": 2,
+        "name":"tournament2",
+        "place":"Rome",
+        "number_of_rounds":2,
+        "players":[105,106,107,108],
+        "timeconrol":2
+    }
+]
+
+
